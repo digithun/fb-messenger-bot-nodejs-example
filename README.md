@@ -62,10 +62,22 @@ example `https://www.facebook.com/DigithunDev-407027276326992/` this means the `
 
 ### 3. Run the bot server !
 
+## Legacy server
 ```shell
 $ npm i
 $ npm start
 ``` 
+
+## Docker
+```shell
+docker build -t fbmsgrbot . 
+docker run -it -d -p 5000:5000 --name fbmsgrbot fbmsgrbot
+``` 
+
+Or just use:
+```
+. run.sh
+```
 
 ## Testing when FB has not yet approved
 
