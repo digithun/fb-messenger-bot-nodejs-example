@@ -1,6 +1,6 @@
 {
-    "appSecret": "54857589e6d6a8010281fbc95c0c2835",
-    "pageAccessToken": "EAAF77qMVyNsBAInKASTHsAGxTFVEnwvC8iHOghPuMLOfinjPj8CS18YEz36LHOx9owGlye8vwKZBOzwYWBM5GZAmsh8GnjAF2tJEDTQmATZCD6xGdBl9ZAHZAuqT5KAMQqTZA7aUG5ZA2CmO1gHYvRu1JZBZBF4uR8jdmSbOWZB8ern1oNCGcRF4yk",
-    "validationToken": "ilovedigithun",
-    "serverURL": "http://af68fe9a.ngrok.io"
+    "appSecret": "From your App dashboard",
+    "pageAccessToken": "Generated from step #2",
+    "validationToken": "someuniquetext that will be used in step #3",
+    "serverURL": "your server url"
 }
